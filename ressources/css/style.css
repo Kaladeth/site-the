@@ -204,3 +204,51 @@ cite img {
     font-size:200%;
     font-weight:100;
 }
+.pack-titre {
+    padding:10px 10px 0px 10px;
+    border-bottom: solid 1px #e3e0e0;
+}
+.pack-content ul {
+    list-style:none;
+    padding:20px;
+    font-weight: 300;
+    line-height: 35px;
+}
+.pack-content ul li i {
+    font-size:90%;
+    margin-right:10px;
+}
+.pack-signup {
+    text-align:center;
+}
+.btn-packs {
+    background-color:green;
+    color:white;
+    margin-bottom:20px;
+}
+.pack-titre span {
+    font-weight:100;
+    font-size:40%;
+    position:relative;
+    top:-15px;
+    left:2px;
+}
+.pack-premium {
+    background-color:#0d690d;
+    color:white;
+}
+.cartouche {
+    position:absolute;
+    top:4060px;
+    left:1020px;
+    background-color:#690d0d;
+    color:green;
+    border-radius:10px;
+    width:100px;
+    padding:10px;
+    font-weight:700;
+}
+.btn-packs:hover {
+    background-color: gold;
+    color:green;
+}
